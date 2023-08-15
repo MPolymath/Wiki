@@ -1,2 +1,3 @@
-# Pentestconfig
-For HTB THM , if your on the move and need to setup your box on the run here is the &lt;3
+# Setup.sh contains a pentest config to set bash history which I use for CTF when I am on the move and need to setup my box on the run.
+
+# This project's wiki contains useful information I have amassed for CTF and pentesting engagements.
